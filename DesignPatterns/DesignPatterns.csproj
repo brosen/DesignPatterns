@@ -48,6 +48,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ChainOfResponsibility\ApprovalCommon.cs" />
     <Compile Include="Factory\Camera.cs" />
     <Compile Include="Factory\ElectronicsFactoryCreator.cs" />
     <Compile Include="Factory\Example1.cs" />
